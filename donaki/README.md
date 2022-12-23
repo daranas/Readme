@@ -36,7 +36,7 @@ Instructions on how to use them in your own application are linked below.
 
 | Plugin | README |
 | ------ | ------ |
-| Bootstrap | [https://github.com/twbs/bootstrap][PlDb] |
-| OwlCarousel | [https://github.com/OwlCarousel2/OwlCarousel2][PlGh] |
-| jQuery | [https://github.com/jquery/jquery][PlGd] |
-| Gulp | [https://github.com/gulpjs/gulp][PlOd] |
+| Bootstrap | https://github.com/twbs/bootstrap |
+| OwlCarousel | https://github.com/OwlCarousel2/OwlCarousel2 |
+| jQuery | https://github.com/jquery/jquery |
+| Gulp | https://github.com/gulpjs/gulp |
