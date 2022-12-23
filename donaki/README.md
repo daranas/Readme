@@ -2,14 +2,15 @@
 
 This website is a static page that has been optimized using Gulp to minify CSS & JS files to make the website loading faster and lighter.
 
-## Application Structure
-
+## Application Structure  
+```
 /
 ├─ assets/
 │  ├─ css/          # Contains CSS (Cascading Style Sheet) files
 │  ├─ images/       # Contains Image files
 │  └─ js/           # Contains JavaScript files
 └─ dist/            # Contains your compiled assets
+```
 
 ## Installation
 
